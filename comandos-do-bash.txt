@@ -1,0 +1,6 @@
+ls -> lista os arquivos
+cd nome da pasta -> entra em uma pasta 
+cd .. -> sai da pasta 
+touch nome do arquivo -> cria arquivo
+mkdir nome da pasta -> cria uma pasta 
+rmdir nome da pasta -> apaga a pasta 
