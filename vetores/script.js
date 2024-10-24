@@ -20,6 +20,4 @@ times.shift()
 //unshift - adiciona item no inicio do array
 times.unshift("vasco")
 
-
-
 console.log (times[0])
